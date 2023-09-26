@@ -3,6 +3,8 @@ public class Node{
         int x =0;
         int y = x+1;
         System.out.print(y+x);
+         System.out.print(y+x);
+        
         
     }
 }
